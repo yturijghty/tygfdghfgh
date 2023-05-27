@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='de04add9-5c68-8bab-950c-08cd5320df18'
+UUID='17ecdc42-4c68-4fb3-a144-a1b3f51a4665'
 VMESS_WSPATH='/argo-vmess'
 VLESS_WSPATH='/argo-vless'
 TROJAN_WSPATH='/argo-trojan'
